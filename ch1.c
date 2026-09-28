@@ -1,3 +1,5 @@
+// question 1: Write a C program to calculate the income tax of an individual based on the following criteria:
+
 #include <stdio.h>
 
 int main() {
